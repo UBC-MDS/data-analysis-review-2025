@@ -14,7 +14,7 @@ assignees: ''
 **Abstract/executive summary:**
 
 
-**Editor:** @ttimbers 
+**Editor:** @skysheng7
 **Reviewer:** <REVIEWER1> <REVIEWER2> <REVIEWER3>
 
 - [ ] I agree to abide by [MDS's Code of Conduct](https://ubc-mds.github.io/resources_pages/code_of_conduct/) during the review process and in maintaining my package should it be accepted.
