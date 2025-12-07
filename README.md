@@ -5,15 +5,15 @@ This repository is the home to the UBC Master of [Data Science Workflows course]
 ## Peer review process
 
 ### Submission
-1. [Open an issue in this repository](https://github.com/UBC-MDS/data-analysis-review-2024/issues/new/choose) and fill in the issue template (see an example submission [here](https://github.com/UBC-MDS/data-analysis-review-2024/issues/1)).
+1. [Open an issue in this repository](https://github.com/UBC-MDS/data-analysis-review-2025/issues/new/choose) and fill in the issue template (see an example submission [here](https://github.com/UBC-MDS/data-analysis-review-2025/issues/1)).
 
 ### Review
 1. Copy the [MDS data analysis review checklist and outline](https://raw.githubusercontent.com/UBC-MDS/data-analysis-review-checklist/main/data-analysis-review-checklist.md) into the issue for the data analysis project you were assigned to review.
 2. Complete the checklist, and provide kind and constructive review comments to help the authors improve their data analysis projects.
 
 ## Editors
-- [Tiffany Timbers](https://www.tiffanytimbers.com/)
 - [Daniel Chen](https://daniel.rbind.io/)
+- [Sky Sheng](https://www.skysheng.io/)
 
 ## Attribution
 
