@@ -1,5 +1,5 @@
 ---
-name: submission
+name: Peer Review Submission
 about: Submission of data analysis project for peer review
 title: 'Submission: <GROUP_NUMBER: PROJECT_TITLE>'
 labels: ''
